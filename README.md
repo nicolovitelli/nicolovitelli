@@ -21,6 +21,9 @@
 
 ## Languages ⚙️
 
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)  
+- ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django) 
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolovitelli&theme=dark)](https://github.com/nicolovitelli/github-readme-stats)
 
 # GitHub Stats 📊
