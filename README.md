@@ -12,7 +12,7 @@
 
 💼: You can find me on <a href="https://www.linkedin.com/in/nicolovitelli/">LinkedIn</a>.
 
-## Soft Skills 💼
+## Soft Skills 🧠
 
 - Team Working
 - Goal Oriented
@@ -22,3 +22,7 @@
 ## Languages ⚙️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolovitelli&theme=dark)](https://github.com/nicolovitelli/github-readme-stats)
+
+# GitHub Stats 📊
+ 
+[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolovitelli&show_icons=true&theme=radical)](https://github.com/nicolovitelli/github-readme-stats)
