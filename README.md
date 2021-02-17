@@ -25,4 +25,4 @@
 
 # GitHub Stats 📊
  
-[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolovitelli&show_icons=true&theme=radical)](https://github.com/nicolovitelli/github-readme-stats)
+[![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolovitelli&show_icons=true&theme=radical)](https://github.com/nicolovitelli/github-readme-stats)
